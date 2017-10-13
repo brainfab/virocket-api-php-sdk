@@ -1,0 +1,26 @@
+{
+    "name": "brainfab/virocket_php_sdk",
+    "description": "ViRocket API PHP SDK",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Kovpak",
+            "email": "max_kovpak@hotmail.com",
+            "homepage": "http://www.max-kovpak.com"
+        }
+    ],
+    "version": "1.0.0-dev",
+    "require": {
+        "php": ">=5.6",
+        "guzzlehttp/guzzle": "^6.2",
+        "nesbot/carbon": "^1.22",
+        "jms/metadata": "^1.6",
+        "jms/serializer": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brainfab\\ViRocket\\": "src"
+        }
+    }
+}
