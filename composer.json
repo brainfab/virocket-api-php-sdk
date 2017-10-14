@@ -14,8 +14,6 @@
     "require": {
         "php": ">=5.6",
         "guzzlehttp/guzzle": "^6.2",
-        "nesbot/carbon": "^1.22",
-        "jms/metadata": "^1.6",
         "jms/serializer": "^1.9"
     },
     "autoload": {
