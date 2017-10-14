@@ -1,5 +1,5 @@
-[ViRocket](http://virocket.com) API PHP SDK
-===========================================
+[ViRocket](http://virocket.com) API PHP SDK - Unofficial
+========================================================
 
 Installation
 ------------
