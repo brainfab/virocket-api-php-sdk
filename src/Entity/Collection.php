@@ -20,7 +20,7 @@ class Collection extends Entity implements \Iterator, \Countable, \ArrayAccess
      */
     public function __construct(array $data = [])
     {
-        $this->data[] = $data;
+        $this->data = $data;
     }
 
     /**
