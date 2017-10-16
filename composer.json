@@ -10,7 +10,7 @@
             "homepage": "http://www.max-kovpak.com"
         }
     ],
-    "version": "1.0.0-dev",
+    "version": "1.0.0",
     "require": {
         "php": ">=5.6",
         "guzzlehttp/guzzle": "^6.2",
